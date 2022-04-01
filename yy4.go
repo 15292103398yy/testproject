@@ -1,2 +1,1 @@
 package testproject
-print("ff")
