@@ -1,3 +1,5 @@
 package testproject
+
 print("dj")
-print("5")
+print("yy2")
+
