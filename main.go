@@ -36,7 +36,7 @@ func main() {
 	addr := "localhost:3212"
 	srv := server.NewServer(addr)
 
-	// start server dhvb
+	// start server
 	srv.Register("QueryUser", QueryUser)
 	go srv.Run()
 
