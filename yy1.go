@@ -1,1 +1,2 @@
 package testproject
+print("dj")
